@@ -1,1 +1,19 @@
-/* add CSS class and element and selectors here */
+body{
+  background-color:blue;
+}
+h3 {font-size: 300%;}
+body{
+  color: green;
+}
+body{
+  text-shadow: 2px 2px black;
+}
+body{
+  text-align: center;
+}
+div{
+  border: double; 
+}
+h1{
+  color: #00ff00;
+}
